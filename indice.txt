@@ -1,5 +1,1 @@
-Capítulo 1: Introducción a Git
-Capítulo 2: Flujo de trabajo básico
-Capítulo 3: Gestión de ramas
-Capítulo 4: Repositorios remotos
-Capitulo 5: Ramas
+Estos son los cambios del ejercicio 7.
